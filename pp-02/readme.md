@@ -26,5 +26,5 @@ Your Rationale: Since the app is catered to children, we have to focus on primar
 
 4. A custom color palette for advertising a course on cybersecurity
 
-Your Palette URL:
-Your Rationale:
+Your Palette URL: http://paletton.com/#uid=c421e4F3i0kRGu+tfN4PPPfSFoUTQiS
+Your Rationale: Off the bat, I wanted to start my primary color as blue. This establishes security, confidence, and all the factors that you need for a cybersecurity site. Following that, I decided to have the complementary color (orange) in the palette. I'm a big believer in complementary colors since it always gives off a nice pop. The only thing left to figure out were the secondary colors. I stuck close to the cooler colorsand ended up with a blue-teal-violet-orange scheme.
