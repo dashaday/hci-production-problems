@@ -16,13 +16,13 @@ Your Rationale: So for a gaming console, I'm going to steer away from the warm c
 
 2. An adjacent color palette for announcing springtime tours at the Chicago Botanical Gardens
 
-Your Palette URL:
-Your Rationale:
+Your Palette URL: http://paletton.com/#uid=55w0U0kg3++0W++9U++lC+XrfZS
+Your Rationale: Springtime in nature shows a lot of green, pink, and yellow. It's hard to put green in an adjacent color palette because it sticks a little too close to blue (which I'm avoiding because it's cool) and too much of yellow (which just makes it look like lime). We can't do much of orange and red either because that's more of a fall color scheme. So we have to move towards the red/ pink area. We should focus more on a mid-range to high lightness to give off that sense of life blooming in. Moving to the pink area and adjusting the distance a bit, I settled for a pink-orange-violet combo.
 
 3. A triadic color palette for styling the login page for an app for kids to learn the alphabet
 
-Your Palette URL:
-Your Rationale:
+Your Palette URL: http://paletton.com/#uid=31U0U0kjs++6n+XdQ+ZoW+WuXZI
+Your Rationale: Since the app is catered to children, we have to focus on primary colors. Often, these are the colors they can identify and name. As much as I wanted to get a turquoise-orange-purple theme, it won't be ideal to the kids. I went for a more primary-colored take and chose Yellow as the base color to give the kids more sense of energy and activeness. It's also gender-neutral. I turned down the saturation a bit as well so as not to hurt the kids' eyes.
 
 4. A custom color palette for advertising a course on cybersecurity
 
