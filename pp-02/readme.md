@@ -11,8 +11,8 @@ Opt for the Paletton Preview mode Default with Text http://paletton.com/
 
 1. A monochromatic color palette for a site introducing a new console gaming platform
 
-Your Palette URL:
-Your Rationale:
+Your Palette URL: http://paletton.com/#uid=14g0u0kJS6KvW5fuP8MNdeqCnl7
+Your Rationale: So for a gaming console, I'm going to steer away from the warm colors since gaming doesn't really involve too much passion and active energy, plus technology is associated more with cool colors. Within the cool colors, I'm going to cross out green and most shades of blue because that's already associated with the Xbox and PlayStation. That leaves me with a little room in blue and purple. Blue is a good color that establishes trust and confidence, but in order to make the brand more specific and unique, it would be better to go with purple. Dark purple also gives off that elite and sophisticated feeling which can set the new brand apart the others.
 
 2. An adjacent color palette for announcing springtime tours at the Chicago Botanical Gardens
 
