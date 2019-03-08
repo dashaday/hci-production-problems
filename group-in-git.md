@@ -12,7 +12,8 @@ After creating an organization and group repository, these are the things you go
    - `git clone [your-clone-link]`
 3. Add Remote link
    - copy clone link from group repo
-   - `git remote add group [group-repo-clone-link]``
+   - go into local copy of repo
+   - `git remote add group [group-repo-clone-link]`
    - to check: `git remote -v`
 
 **Editing on your Own Branch**
