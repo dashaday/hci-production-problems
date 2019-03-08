@@ -26,7 +26,7 @@ After creating an organization and group repository, these are the things you go
    - you should see a notification there with a clickable 'Pull Request' link
    - you'll be redirected to the org's repo
 6. Click Create Pull Request
-7. All set! Copy the URL on the address bar so you can put it on your pp-03
+7. All set! Copy the URL on the address bar so you can put it on your pp-03 
 
 **Editing on your Own Branch**
 1. Open and make edits on file as usual
@@ -36,7 +36,7 @@ After creating an organization and group repository, these are the things you go
 4. Push
    - `git push origin branch-name`
 
-**Updating/ Merging to Group Repo**  
+**Updating/ Merging to Group Repo**
 To push your edits:
 1. Go to group repository
 2. Click Create Pull Request
