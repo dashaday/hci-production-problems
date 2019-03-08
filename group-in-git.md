@@ -16,6 +16,18 @@ After creating an organization and group repository, these are the things you go
    - `git remote add group [group-repo-clone-link]`
    - to check: `git remote -v`
 
+**PP-03**
+1. Open and make edits on file as usual
+2. Git add and commit as usual
+3. Push
+   - `git push origin master`
+4. Go to GitHub -> your forked repo
+5. Click Pull Request
+   - you should see a notification there with a clickable 'Pull Request' link
+   - you'll be redirected to the org's repo
+6. Click Create Pull Request
+7. All set! Copy the URL on the address bar so you can put it on your pp-03 
+
 **Editing on your Own Branch**
 1. Open and make edits on file as usual
 2. Make branch (per feature)
