@@ -12,7 +12,7 @@ want to do multiple sketches, each highlighting a different feature of the same 
 
 ## Resources
 
-* Apple iOS HCI Guidlines:
+* Apple iOS HCI Guidelines:
   https://developer.apple.com/design/human-interface-guidelines/
 * Android Guidelines:
   https://developer.android.com/design
@@ -33,5 +33,6 @@ I tried to implement a strong contrast of colors between the background and key 
 * Describe how you implemented that guideline in your sketch:
 I used color to indicate the states of the interactive elements. The sections toggle from orange to blue depending on whether its expanded of collapsed. This draws the attention of the user towards the section they're interacting with. The options within the section (Option 1, Option 2, Student, Senior, etc.) also have a similar behavior. The selected option will turn the border orange to act as feedback to the user of what they selected.
 
-* HCI Guideline Three (URL):
+* HCI Guideline Three (URL): https://material.io/design/components/cards.html#usage
 * Describe how you implemented that guideline in your sketch:
+The layout I created intends to divide the types of memberships into categories (Basic, Premier, Circle, DVC). To do this, I decided to split them into their own separate section or cards. I think this works well since it makes it easier for the user to navigate and compare if they'd like, without constantly reopening the drop down list. Each card contains information on its benefits and further options within it (Basic: Student, Senior, Individual, Household, etc.). I also wanted to design the cards to be expandable/ collapsible. This is so that users who have already selected their membership from the Basic category don't need to scroll through all the other sections just to reach the 'Continue' button. I also want the Basic card collapsed on default since I believe that most people are looking for a basic membership compared to the other kinds. 
